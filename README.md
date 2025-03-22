@@ -11,3 +11,6 @@
  3: Model performance & improvements:
  
 The Naive Bayes model achieved a good accuracy in detecting fake news, but there is room for improvement. Using deep learning techniques like LSTMs or transformers could enhance the model’s ability to detect more complex patterns in text. Further improvements could include training on a larger dataset and fine-tuning hyperparameters for better performance.
+
+Check it out :
+https://huggingface.co/spaces/usaid123/usaid-fake-news-detector
