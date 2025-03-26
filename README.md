@@ -1,6 +1,6 @@
 # Fake-news-detection
 
- 1 : The approach used:
+ 1: The approach used:
  
  The fake news detection model was built using machine learning techniques. The dataset was preprocessed by cleaning text, removing stopwords, and converting it into numerical form using TF-IDF vectorization. A Naive Bayes model was trained on the processed data to classify news articles as real or fake. After training, the model was saved and deployed using Flask, allowing users to enter a news article and get a prediction.
  
